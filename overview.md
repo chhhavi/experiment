@@ -3,11 +3,11 @@
 This repos is for all the stuffs regarding the project
 
 
-['  origin/branchA'](#'  origin/branchA')
+['branchA'](#'branchA')
 
-['  origin/branchB'](#'  origin/branchB')
+['branchB'](#'branchB')
 
-['  origin/branchC'](#'  origin/branchC')
+['branchC'](#'branchC')
 
 <a name='branchA'></a>branchA
 ------------------------------
