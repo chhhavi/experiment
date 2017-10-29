@@ -13,7 +13,7 @@ Branch updated:Sun Oct 29 17:26:52 2017 -0400
 
 Notes updated:Sun Oct 29 17:26:52 2017 -0400
 
-Link to branch:Sun Oct 29 17:26:52 2017 -0400
+Link to branch:stuff goes here
 
 
 ------------------------------
@@ -26,7 +26,7 @@ Branch updated:Sun Oct 29 17:27:16 2017 -0400
 
 Notes updated:Sun Oct 29 17:27:16 2017 -0400
 
-Link to branch:Sun Oct 29 17:27:16 2017 -0400
+Link to branch:stuff goes here
 
 
 ------------------------------
@@ -39,6 +39,6 @@ Branch updated:Sun Oct 29 17:27:38 2017 -0400
 
 Notes updated:Sun Oct 29 17:27:38 2017 -0400
 
-Link to branch:Sun Oct 29 17:27:38 2017 -0400
+Link to branch:stuff goes here
 
 
