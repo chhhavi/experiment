@@ -13,7 +13,7 @@ Branch updated:Sun Oct 29 17:39:48 2017 -0400
 Notes updated:Sun Oct 29 17:39:48 2017 -0400
 
 
-[link](#branchA)
+[branchA](#branchA)
 <a name='branchB'></a>branchB
 ------------------------------
 
@@ -24,7 +24,7 @@ Branch updated:Sun Oct 29 17:40:05 2017 -0400
 Notes updated:Sun Oct 29 17:40:05 2017 -0400
 
 
-[link](#branchB)
+[branchB](#branchB)
 <a name='branchC'></a>branchC
 ------------------------------
 
@@ -35,4 +35,4 @@ Branch updated:Sun Oct 29 17:40:17 2017 -0400
 Notes updated:Sun Oct 29 17:40:17 2017 -0400
 
 
-[link](#branchC)
+[branchC](#branchC)
