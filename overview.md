@@ -1,5 +1,10 @@
-# The project
+origin/branchC
+------------------------------
 
-This repos is for all the stuffs regarding the project
+These are the notes for BranchC
+
+Branch updated:Sun Oct 29 17:40:17 2017 -0400
+
+Notes updated:Sun Oct 29 17:40:17 2017 -0400
 
 
