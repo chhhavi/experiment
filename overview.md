@@ -1,28 +1,33 @@
-# experiment
+# The project
+
+This repos is for all the stuffs regarding the project
 ------------------------------
-Branch updated:Sun Oct 29 16:31:42 2017 -0400
-Notes updated:
+Branch updated:Sun Oct 29 17:26:52 2017 -0400
 
-# experiment
+Notes updated:Sun Oct 29 17:26:52 2017 -0400
 
-branchA
+# BranchA
 
-
-------------------------------
-Branch updated:Sun Oct 29 16:32:46 2017 -0400
-Notes updated:
-
-# experiment
-
-branchB
+These are the notes for BranchA
 
 
 ------------------------------
-Branch updated:Sun Oct 29 16:33:19 2017 -0400
-Notes updated:
+Branch updated:Sun Oct 29 17:27:16 2017 -0400
 
-# experiment
+Notes updated:Sun Oct 29 17:27:16 2017 -0400
 
-branchC
+# BranchB
+
+These are the notes for branchB
+
+
+------------------------------
+Branch updated:Sun Oct 29 17:27:38 2017 -0400
+
+Notes updated:Sun Oct 29 17:27:38 2017 -0400
+
+# BranchC
+
+These are the notes for BranchC
 
 
