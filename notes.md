@@ -1,3 +1,3 @@
-# experiment
+# BranchC
 
-branchC
+These are the notes for BranchC
